@@ -6,7 +6,7 @@ s.name = "TestFramework"
 s.summary = "does nothing."
 s.requires_arc = true
 
-s.version = "0.1.0"
+s.version = "0.5.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "bill s" => "loudsoftware@gmail.com" }
 
